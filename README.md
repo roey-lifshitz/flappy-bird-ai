@@ -13,7 +13,7 @@ How Does the AI Learn?:
 A generation of birds is created with random weights at the start of the game.
 Every time a generation dies, the game "mutates" the weights of the best in generation by a given percent.
 That means that every generation is an evolution of the generation beforehand.
-Theoretically, each evolution could ruin the birds progress. To bypass this problem, every generation also consits of
+Theoretically, each evolution could ruin the birds progress. To bypass this problem, every generation also consists of
 mutations of the best bird in all generations.
 
 
